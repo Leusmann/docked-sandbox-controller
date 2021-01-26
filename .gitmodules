@@ -1,0 +1,27 @@
+[submodule "k4r-sandbox-controller/packages/iai_common_msgs"]
+	path = k4r-sandbox-controller/packages/iai_common_msgs
+	url = https://github.com/code-iai/iai_common_msgs.git
+[submodule "k4r-sandbox-controller/packages/knowrob"]
+	path = k4r-sandbox-controller/packages/knowrob
+	url = https://github.com/knowrob/knowrob.git
+[submodule "k4r-sandbox-controller/packages/knowrob_refills"]
+	path = k4r-sandbox-controller/packages/knowrob_refills
+	url = https://github.com/refills-project/knowrob_refills.git
+[submodule "k4r-sandbox-controller/packages/refills_msgs"]
+	path = k4r-sandbox-controller/packages/refills_msgs
+	url = https://github.com/refills-project/refills_msgs.git
+[submodule "k4r-sandbox-controller/packages/refills_perception_interface"]
+	path = k4r-sandbox-controller/packages/refills_perception_interface
+	url = https://github.com/refills-project/refills_perception_interface.git
+[submodule "k4r-sandbox-controller/packages/rosprolog"]
+	path = k4r-sandbox-controller/packages/rosprolog
+	url = https://github.com/knowrob/rosprolog.git
+[submodule "k4r-sandbox-controller/packages/rospy_message_converter"]
+	path = k4r-sandbox-controller/packages/rospy_message_converter
+	url = https://github.com/uos/rospy_message_converter.git
+[submodule "k4r-sandbox-controller/packages/unreal_ros_pkgs"]
+	path = k4r-sandbox-controller/packages/unreal_ros_pkgs
+	url = git@github.com:K4R-IAI/unreal_ros_pkgs.git
+[submodule "k4r-sandbox-controller/packages/sandbox-controller"]
+	path = k4r-sandbox-controller/packages/sandbox-controller
+	url = https://github.com/Leusmann/sandbox-controller.git
